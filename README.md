@@ -78,3 +78,7 @@ The program displays a live window with:
 - Bottom panel with awake/sleep stats
 
 When BUSTED triggers, a screenshot is saved to `screenshots/` with a large red **BUSTED!** label and the current date/time.
+
+### Detection Window
+
+![Detection Window](output/screenshot.png)
